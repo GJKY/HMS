@@ -1,1 +1,1 @@
-# HMS
+# Project Hotel Management System
